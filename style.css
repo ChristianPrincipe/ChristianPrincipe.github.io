@@ -147,8 +147,8 @@ footer {
 
 @media (max-width: 600px) {
   .container {
-    width: 95%;
-    margin: 5% auto; 
+    width: 90%;
+    margin: 10% auto; 
   }
   
   .left-right-container {
