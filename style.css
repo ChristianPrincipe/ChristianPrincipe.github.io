@@ -112,7 +112,7 @@ img{
 }
 
 .container {
-  width: 90%;
+  width: 95%;
   margin: 5% auto; 
   padding: 20px;
   background-color: rgba(0, 0, 0, 0.6); 
@@ -147,8 +147,8 @@ footer {
 
 @media (max-width: 600px) {
   .container {
-    width: 90%;
-    margin: 10% auto; 
+    width: 95%;
+    margin: 5% auto; 
   }
   
   .left-right-container {
